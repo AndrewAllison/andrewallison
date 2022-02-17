@@ -25,14 +25,17 @@ Here are some ideas to get you started:
 [![website](./img/icons8-facebook.svg)](https://www.facebook.com/andrew.allison.10/#gh-light-mode-only)
 [![website](./img/icons8-facebook_light.svg)](https://www.facebook.com/andrew.allison.10/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/icons8-twitter.svg)](https://twitter.com/AndrewAllison#gh-light-mode-only)
+[![website](./img/icons8-twitter_light.svg)](https://twitter.com/AndrewAllison#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/icons8-linkedin.svg)](https://www.linkedin.com/in/andrewallison0411/#gh-light-mode-only)
+[![website](./img/icons8-linkedin_light.svg)](https://www.linkedin.com/in/andrewallison0411/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/icons8-instagram-old.svg)](https://www.instagram.com/andrewallison/#gh-light-mode-only)
+[![website](./img/icons8-instagram-old_light.svg)](https://www.instagram.com/andrewallison/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/icons8-flickr.svg)](https://www.flickr.com/photos/8462033@N06/#gh-light-mode-only)
+[![website](./img/icons8-flickr_light.svg)](https://www.flickr.com/photos/8462033@N06/#gh-dark-mode-only)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
