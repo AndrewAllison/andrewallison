@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [![website](./img/icons8-facebook.svg)](https://www.facebook.com/andrew.allison.10/#gh-light-mode-only)
-[![website](./img/icons8-facebook.svg)](https://www.facebook.com/andrew.allison.10/#gh-dark-mode-only)
+[![website](./img/icons8-facebook_light.svg)](https://www.facebook.com/andrew.allison.10/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
