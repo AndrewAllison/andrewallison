@@ -20,6 +20,20 @@ Here are some ideas to get you started:
 🔭 I’m currently working on :
 * The core platform for @wearefundify
 
+### Connect with me:
+
+[![website](./img/icons8-facebook.svg)](https://www.facebook.com/andrew.allison.10/#gh-light-mode-only)
+[![website](./img/icons8-facebook.svg)](https://www.facebook.com/andrew.allison.10/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
