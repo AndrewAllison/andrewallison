@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a husband, father, developer and football coach
+
+🔭 I’m currently working on :
+* The core platform for @wearefundify
+
+📫 How to reach me:
+[twitter]: https://twitter.com/andrewallison
+[instagram]: https://www.instagram.com/andrewallison/
+[flickr]: https://www.flickr.com/photos/8462033@N06/
