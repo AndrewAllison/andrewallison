@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 * The core platform for @wearefundify
 
 📫 How to reach me:
+
 [twitter]: https://twitter.com/andrewallison
 [instagram]: https://www.instagram.com/andrewallison/
 [flickr]: https://www.flickr.com/photos/8462033@N06/
