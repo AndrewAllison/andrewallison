@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a founder, developer, husband, father and football coach
+## I'm an ex-founder, developer, husband, father and football coach
 
 🔭 I’m currently working on :
 * The core platform for @wearefundify
